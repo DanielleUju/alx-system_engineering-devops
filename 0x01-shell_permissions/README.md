@@ -1,1 +1,1 @@
-print effective user name
+List groups
